@@ -32,6 +32,7 @@ public class JpaConfig {
 
     JpaProperties jpaProperties;
 
+
     public JpaConfig(JpaProperties jpaProperties){
         this.jpaProperties = jpaProperties;
     }
